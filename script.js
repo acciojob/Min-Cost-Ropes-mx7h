@@ -8,8 +8,8 @@ function mincost(arr)
 		let a = array.shift()
 		let b = array.shift()
 		res = a+b
-		array.push(a+b)
-		array.sort((a,b)=>a-b)
+		
+		
 	}
 
 	return res
